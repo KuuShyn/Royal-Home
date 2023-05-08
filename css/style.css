@@ -1,0 +1,85 @@
+.dark {
+  background-color: #2e303d;
+}
+
+.dark-2 {
+  background-color: #474a5f;
+}
+
+.dark-3 {
+  background-color: #484b5f;
+}
+
+.light-blue {
+  background-color: #6bb7ec;
+}
+
+.light-red {
+  background-color: #EC6B6B;
+}
+
+.lg {
+  zoom: 1.5;
+}
+
+.form-control,
+.form-control:focus {
+  background-color: #474a5f;
+  border-color: #474a5f;
+  color: #fff;
+  outline: none;
+}
+
+.form-control-custom {
+  padding: 15px;
+  width: 320px;
+}
+
+.form-control-custom-2 {
+  padding: 15px;
+  width: 150px;
+}
+
+#firstname::placeholder,
+#lastname::placeholder,
+#sEmail::placeholder,
+#sPassword::placeholder {
+  color: #926060;
+}
+
+.form-control::placeholder {
+  color: #818181;
+}
+
+.form-control-custom-3 {
+  padding: 10px;
+  width: 150px;
+}
+
+.btn-custom {
+  width: 320px;
+  padding: 10px;
+}
+
+.btn-custom-2{
+  width: 150px;
+  padding: 30px;
+}
+
+.gray {
+  color: #818181;
+}
+
+.offcanvas-size-sm {
+  --bs-offcanvas-width: min(95vw, 250px) !important;
+}
+
+.yellow {
+  background-color: #d9cd5f;
+}
+
+.card {
+  line-height: 15px;
+  border-radius: 1.5em;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
